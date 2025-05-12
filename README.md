@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GUNDYAB
+- 👋 Hi, I’m Bright T. Gundya
 - 👀 I’m interested in Software Development, Data Science and Actuarial Science
 
 <!---
